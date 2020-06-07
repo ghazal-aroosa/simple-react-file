@@ -9,7 +9,7 @@ return <div>
  Hello !<strong> {props.name} </strong> is  {props.age}  Years old
   <br/>
   <p >she take subjects :
-    <ol>
+    <ol >
       <li>Computer Science</li>
       <li>Mathematics</li>
       <li>Economics</li>
